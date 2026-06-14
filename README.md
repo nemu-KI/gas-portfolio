@@ -44,7 +44,7 @@ Google Apps Script（GAS）を使用して、CSVデータの読み込みから
 8. 読み込み設定シートのB3にCSVファイル名を入力
 9. 以下のボタンを作成して各関数を紐付け
    - CSVファイル読み込み：importCSV関数
-   - データのソート:：filterCSVData関数
+   - データのソート：filterCSVData関数
    - メールの作成：createMail関数
 
 ## 工夫した点
